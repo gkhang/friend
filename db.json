@@ -1,0 +1,48 @@
+{
+  "friendSearch": {
+    "friends":[
+      {
+        "friendId":2234, 
+        "name":"Apple", 
+        "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+      }
+    ]
+  },
+  "friendNew" :{
+      "friendId":156, 
+      "name":"Bob", 
+      "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+  },
+  "friendList": {
+    "friends":[
+      {
+        "friendId":900, 
+        "name":"Thor", 
+        "photoLink":
+        "https://www.movienewsletters.net/photos/192801H1.jpg"
+      }, 
+      {
+        "friendId":899, 
+        "name":"Webby", 
+        "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+      }
+    ]
+  },
+  "friendRequestList":{
+    "friends": [
+       {
+          "friendId":253, 
+          "name":"Apple", 
+          "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+        }, 
+        {
+          "friendId":893, 
+          "name":"Cindy", 
+          "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+        }
+      ]
+  },
+  "friendRemove": {
+       "error" : []
+  }
+}
