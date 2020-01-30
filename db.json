@@ -1,5 +1,5 @@
 {
-  "friendSearch": {
+  "search": {
     "friends":[
       {
         "friendId":2234, 
@@ -8,12 +8,12 @@
       }
     ]
   },
-  "friendNew" :{
+  "new" :{
       "friendId":156, 
       "name":"Bob", 
       "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
   },
-  "friendList": {
+  "list": {
     "friends":[
       {
         "friendId":900, 
@@ -28,7 +28,7 @@
       }
     ]
   },
-  "friendRequestList":{
+  "requestList":{
     "friends": [
        {
           "friendId":253, 
@@ -42,7 +42,7 @@
         }
       ]
   },
-  "friendRemove": {
+  "remove": {
        "error" : []
   }
 }
